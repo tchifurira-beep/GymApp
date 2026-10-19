@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "GymApp.slnx",
+    "projects": [
+      "GymApp\\GymApp.csproj"
+    ]
+  }
+}
